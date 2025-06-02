@@ -17,7 +17,7 @@ This project implements a 4-bit Linear Feedback Shift Register (LFSR) interfaced
 - `images/`: Simulation outputs and state diagram.
 
 ## State Diagram
-![LFSR State Diagram](images/lfsr_state_diagram.png)
+![LFSR State Diagram](images/lfsr_state_diagram.drawio.png)
 
 ## How to Run
 1. Clone the repository:
